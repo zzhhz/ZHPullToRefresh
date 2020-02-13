@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--          string          -->
+
+    <string name="lib_ptr_state_pull_to_refresh_header">下拉刷新</string>
+    <string name="lib_ptr_state_pull_to_refresh_footer">上拉加载</string>
+
+    <string name="lib_ptr_state_release_to_refresh_header">松开刷新</string>
+    <string name="lib_ptr_state_release_to_refresh_footer">松开加载</string>
+
+    <string name="lib_ptr_state_refreshing_header">刷新中...</string>
+    <string name="lib_ptr_state_refreshing_footer">加载中...</string>
+
+    <string name="lib_ptr_state_refreshing_success_header">刷新成功</string>
+    <string name="lib_ptr_state_refreshing_success_footer">加载成功</string>
+
+    <string name="lib_ptr_state_refreshing_failure_header">刷新失败</string>
+    <string name="lib_ptr_state_refreshing_failure_footer">加载失败</string>
+
+    <!-- 指定全局HeaderView类的class -->
+    <string name="lib_ptr_header_class"></string>
+
+    <!-- 指定全局FooterView类的class -->
+    <string name="lib_ptr_footer_class"></string>
+
+    <!--          color          -->
+
+    <!-- 默认的加载view中提示文字的颜色 -->
+    <color name="lib_ptr_text_loading_info">#888888</color>
+
+    <!--          dimen          -->
+
+    <!-- 默认的加载view中提示文字的大小 -->
+    <dimen name="lib_ptr_text_loading_info">13sp</dimen>
+
+</resources>
